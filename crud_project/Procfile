@@ -1,0 +1,2 @@
+web: gunicorn crud_project.crud_project.wsgi:application
+
